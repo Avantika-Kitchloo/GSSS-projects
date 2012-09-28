@@ -3,43 +3,135 @@ GSSS-projects
 
 details of the projects
 
-CLIENT ENTERTAINMENT USAGE FORM
+Name	Karthikeyan Subramanian
+Present Address	5/4 A Elumalai Street,
+Radha Nagar, Chrompet,Chennai-44,India
+Phone: +91-044-22652513
+Mobile: 9942311418
+Permanent Address	52, Sathanar Street,
+Oldpet, Attur(Tk), Salem(Dt), India
+Pin Code: 636102
+Mobile: 9942311418
+	
+Education	Master of Computer Applications
+Post Graduation	Nehru Memorial College
+Master of Computer Applications
+Year: 2003 to 2006
+Roll No : 03280082
+Address
+Puthanampatti, Trichy(Dt), India
+Pin Code: 621007
+	
+Graduation	Thanthai Hans Roever College of Arts and Science,
+Bachelor of Science in Computer Science
+Year: 2000 to 2003
+Roll No: SU00S14478
+ Address
+Thanthai Hans Roever College of Arts and Science,
+Perambalur District-621212
+TamilNadu,India
+12th 	Govt. Boys Higher Secondary School
+Roll No: 637580
+Year: 1999-2000
+Govt. Boys Higher Secondary School
+Attur(Tk),Salem(Dt),
+TamilNadu,
+India
+10th 	Govt. Boys Higher Secondary School
+Roll No:211536
+Year: 1997-1998
+Govt. Boys Higher Secondary School
+Attur(Tk),Salem(Dt),
+TamilNadu,
+India
+	
+Work Experience	I|Nautix Technologies India Private Ltd
+Date of Joining: 03/May/2010
+Full Address
+10th floor, Tidel Park, 
+No 4 Canal Bank Road, 
+Taramani, Chennai – 600041.
 
-These are the menu options available for normal user. The functionality of each option will be explained in the following sections.
 
-This option is used by the user to create an entertainment form having the information of event and the attendees. User has to enter all the mandatory details and on clicking Next button, system redirects to Attendee information page.
+Fidelity National Information Systems,
+Date of Joining: 12/Feb/2007
+Date of Leaving: 30/Apr/2010
+Full Address
+54, Vijayaraghava Road, 
+T Nagar, 
+Chennai 600 017, India
 
-To utilize sporting, concert or other event tickets for customer entertaining, please complete the form below and select * Submit * to submit it.  Tickets are to be used for client entertaining only and all information contained within the request must be accurate. Misuse of these tickets may subject you to disciplinary action, up to and including termination of employment. Pre-approval for tickets through CODE RAP is only required for US and Non-US government employees and officials. However, any other related entertainment presented that is valued at $250 or more per person must be submitted through CODE RAP for pre-approval (e.g. food and drinks), regardless of client type. 
-BNY Mellon Host — The BNY Mellon Host must be the senior-most employee attending the event.  As the host for your business in the BNY Mellon suite, you are responsible for the actions of the guests and employees from your business.
-To receive the tickets for the event, you must provide the names of all attendees and choose one of the selections, Commercial Client, US Government Client, Non-US Government Client, Prospect, Employee or Guest, for each person.  Please complete the Organization (for BNY Mellon Employees, indicate whether they are NASD regulated), whether you are in current active contract negotiations with this attendee and Title boxes where applicable.  We understand that for Wealth Management customers, an Organization and Title may not be appropriate.  For events where your Client or Prospect brings someone with them (a spouse, significant other, friend, etc), please select Guest. 
-An Additional Comments field is available for you to provide information that you want to include. 
-Once you complete the form, please select Submit.  A confirmation screen will appear.  You can print this confirmation screen for your files.  An e-mail will be sent to your Business Ticket Contact and the Corporate Marketing Ticket Coordinator informing them that you completed the Client Entertainment Usage Form and to release the tickets to you.  Please contact your Business Ticket Contact to make arrangements to get the tickets for your event. 
 
-Network Order Tracking (NOT):
-Network Order Tracking is a web application used to record all the orders placed by the users. Users use this application for ordering network related equipments and send the orders to corresponding vendors.
+HVOS Services (Previously Lason India Private Ltd.)
+Date of Joining: 16/Jan/2006
+Date of Leaving: 09/Feb/2007
+Full Address
+10th Floor, Dowlath Towers, 
+59, Taylors Road, Kilpauk  
+Chennai-600010 
 
-An Overview about Network Order Tracking:
-
-  Users can create order for network related equipments (Circuits) like Ethernet, Cable, and Broadband etc. 
-	The orders can be created for the purpose of Installation, disconnect and cancellation etc.
-	Once order is created user can add details about location and information related to the circuits.
-	After adding location and circuit details, user can send the orders to Vendor through either email or fax. Also emails can be formatted either in tabular format or sent as plain text.
-	The application has three types of roles for users: Associate, Administrator and Security Admin.
-	User with Associate roles can view order details in read only format. They cannot create, update or send orders. 
-	Users with Administrator role, can create, update and send orders to vendor. They can also update domain tables for Vendor details, circuit type details, order types etc.
-	Security Admins have all the access of Administrators. In addition they can add user, updated user role and delete user from the application.
  
-Key Functionalities:
 
-a) Search:
+Project 1#	
 
-The application provides a sophisticated search screen. Users can search for orders based on almost all the information related to order. Search can be performed based on project ID, project name, Order ID, Order type, Order date, requestor, vendor, circuit information etc.
-Also the search results will be displayed dynamically based on the search criteria. By default Project ID, Order ID, Order Type, Order date, Analyst, Circuit Type, Circuit ID and Location details will be displayed. In addition to that, the fields included in search criteria will be displayed. Search results can be exported to excel file format. 
-b) Circuit Specific Fields:
+Project		:  Configuration Management Database (CMDB) 
+    (Bank of New York Mellon) 
+Role			:   Senior Application Developer
+Company		:   i|Nautix Technologies India Private Ltd.	 
+Duration		:   May 2010 – Till Date	 
+Team Size		:   8	 
+Proprietary Technologies Used 	: BNY  Mellon Issue Tracking Tool, BNY Mellon Distributed Online Forms –DOLF, BNY Mellon Site Minder Authentication Service,  BNY  Mellon Application Server Log utility tool, BNY Mellon Corporate Modeler Tool, BNY Mellon GSSS Framework.
+Description of project: CMDB portal is the repository of the complete server inventory, including hardware serial numbers, model, CPU, memory, OS release level, physical location, terminal server ID, IP address, Failover server name, installed software’s, server location details and Bank of New York Mellon proprietary applications cum application owner’s information.
 
-	In Circuit entry and update screen, circuit specific fields will be displayed dynamically. The fields are displayed using client side script so that response will quick. This helps users to capture circuit specific information easily.
+The CMDB is a unified or federated repository of information about all the components in the IT environment including processes, people, hardware, software and network devices. In addition to tracking and managing Configuration Items (CIs)
+CMDB offers numerous other features, including:
+•	Automatic discovery of applications, servers and network devices.
+•	Graphical representation of the infrastructure.
+•	Collection and tracking of detailed configuration information.
+•	Monitoring of hardware and software changes.
+•	The ability to drill down for IT resource comparison.
+•	Extensive real-time reporting.
+•	Intuitive user interface and management.
+•	Seamless integration with existing applications.
+•	Easier management of Service-Level Agreements (SLAs).
+	
 
-c) Foreign Currency Calculation:
 
-In orders screen, user can set currency type as other than USD. If currency type is changed as other than USD, value of Monthly Recurring Charges will be converted to the equivalent foreign currency amount and displayed.  
 
+Responsibilities: 
+•	Designed the architecture of CMDB Portal which includes database design and user interface design as follows 
+	Database Normalization (Efficiently organizing data in a database. And eliminating redundant data)
+	Implementing corrective actions to generate better execution plans for poorly performing SQL statements
+	Designing Rich User Interfaces using Adobe Dreamweaver 
+•	Closely works with the CMDB Business users to demonstrate the user interface screens and functionalities.
+•	Implemented the automatic trigger activity on daily basis for Audit reconciliation process, which helps Bank of New York Mellon to know the list of active applications and owner’s information. 
+•	Frequent Interaction with the CMDB team for implementing the following enhancements like attestation process, Least recovery time, export to excel reports  and upload excel data to the CMDB portal.
+•	Providing proof of concept (POC) for new enhancements before proceeding with the actual implementation. This POC enables us to give a better vision on planned implementation in advance.
+•	Responsible for creating the Implementation plan and providing the support during Implementation and Post implementation.
+•	Version Management of code and documents in VSS and Harvest.
+
+Project 2#	
+
+Project		:  Network Order Tracking (NOT) (Bank of New York Mellon) 
+Role			:  Senior Application Developer 
+Company		:  i|Nautix Technologies India Private Ltd.	 
+Duration		:  June 2010 – February 2011	 
+Team Size		:  4	 
+Proprietary Technologies Used 	: BNY  Mellon Issue Tracking Tool, BNY Mellon Distributed Online Forms –DOLF, BNY Mellon Site Minder Authentication Service,  BNY  Mellon Application Server Log utility tool, BNY Mellon Corporate Modeler Tool, BNY Mellon GSSS Framework. 
+
+Description of project: NOT portal helps Bank of New York Mellon Network team, to procure the network related device by raising the online request (Purchase Orders - PO). This tool also helps team to view the current status of the request, various procurement related reports.
+NOT offers numerous other features, including:
+•	Maintain a complete product catalog based on product type that lists all assets owned by Bank of New York Mellon.
+•	Maintain a group of vendors for any product along with price.
+•	Create Purchase orders for a vendor and automatically convert PO items into assets.
+•	Keep track of outstanding POs and completed purchases.
+•	Analyze purchasing trends to leverage negotiations with vendors.
+•	Email the POs to vendors thus eliminating the paperwork.
+Responsibilities: 
+•	Designed the architecture of NOT Portal which includes database design and user interface design as follows 
+	Database Normalization (Efficiently organizing data in a database. And eliminating redundant data)
+	Designing Rich User Interfaces 
+•	Providing proof of concept (POC) for new enhancements before proceeding with the actual implementation. This POC enables us to give a better vision on planned implementation in advance.
+•	Responsible for creating the Implementation plan and providing the support during Implementation and Post implementation.
+•	Responsible for overall quality service delivery
+•	Version Management of code and documents in VSS and Harvest.
